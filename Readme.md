@@ -18,7 +18,7 @@ virtual y sistema de archivos.
 Operativo.
 
 Vea en qué consiste cada laboratorio aquí:
-* [Primer laboratorio](Laboratorio%201%3A%MyBash/Consigna.pdf)
+* [Primer laboratorio](Laboratorio%201%3A%20MyBash/Consigna.pdf)
 * [Segundo Laboratorio](Laboratorio%202%3A%20Sem%C3%A1foros%20en%20XV6/Lab2%20-%20Enunciado%202023.pdf)
 * [Tercer Laboratorio](Laboratorio%203%3A%20Planificaci%C3%B3n/Enunciado.pdf)
 * [Cuarto Laboratorio](Laboratorio%204%3A%20Sistema%20de%20archivos%20BigBrother/Enunciado.pdf)
