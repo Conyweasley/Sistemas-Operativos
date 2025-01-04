@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "stat.h": "c",
+        "stdlib.h": "c",
+        "string.h": "c",
+        "errno.h": "c",
+        "alloca.h": "c",
+        "fat_filename_util.h": "c"
+    }
+}

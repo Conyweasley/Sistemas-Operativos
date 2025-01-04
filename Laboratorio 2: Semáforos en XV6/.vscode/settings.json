@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "riscv.h": "c",
+        "types.h": "c",
+        "defs.h": "c",
+        "sys_semaphore.h": "c",
+        "proc.h": "c",
+        "type_traits": "c",
+        "spinlock.h": "c",
+        "stat.h": "c",
+        "user.h": "c",
+        "param.h": "c",
+        "memlayout.h": "c"
+    }
+}
